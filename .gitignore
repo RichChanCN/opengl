@@ -1,2 +1,4 @@
 dll/assimpd.dll
 lib/assimpd.lib
+dll/assimp.dll
+lib/assimp.lib
